@@ -1,0 +1,1 @@
+pip install djangorestframework==3.11.1
